@@ -1,0 +1,15 @@
+
+.footer-header {
+    padding: "16px";
+    background-color: "#222";
+    color: "#fff";
+    display: "flex";
+    justify-content: "space-between";
+    align-items: "center";
+}
+
+.link {
+    color: "#fff";
+    margin-left: "12px";
+    text-decoration: "none";
+}
